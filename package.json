@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"Job portal API\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Its-Pawan/job-portal.git"
+  },
+  "keywords": [
+    "Jobfinder",
+    "getJob",
+    "jobportal]"
+  ],
+  "author": "pawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Its-Pawan/job-portal/issues"
+  },
+  "homepage": "https://github.com/Its-Pawan/job-portal#readme"
+}
